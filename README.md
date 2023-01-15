@@ -4,3 +4,4 @@ Some C- Programs
 2) Binary Search Tree
 3) Queue
 4) Stack
+5) Stack using Linked list
